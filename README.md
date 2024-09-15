@@ -1,4 +1,4 @@
-## JAI SHREE RAM 🚩  🚩  🚩  🚩  🚩  🚩  🚩 
+<h1 align="center">JAI SHREE RAM🚩</h1>
 
 <h1 align="center">Hi 👋, I'm HIMANSHU KANSAL</h1>
 <h3 align="center">I am student @ IIITU , currently learning WEB DEVELOPMENT and DSA.</h3>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT and DSA**
 
-- 💬 Ask me about **HTML5 , CSS , JS , REACT , OOPS , C++ .**
+- 💬 Ask me about **HTML5 , CSS , JS , REACT , OOPS , C++ , DSA .**
 
 - 📫 How to reach me **himanshukansal101@gmail.com**
 
