@@ -5,8 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-himanshukansal&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-himanshukansal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-himanshukansal" alt="i-am-himanshukansal" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/mhimanshukansal" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mhimanshukansal?logo=twitter&style=for-the-badge" alt="mhimanshukansal" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/mhimanshukansal" target="blank"><img src="https://img.shields.io/twitter/follow/mhimanshukansal?logo=twitter&style=for-the-badge" alt="mhimanshukansal" /></a> </p>
+
+<p align="left"> 
+  <a href="https://instagram.com/i.am.himanshukansal" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-blue?logo=instagram&style=for-the-badge" alt="i.am.himanshukansal" />
+  </a>
+</p>
+
 
 - 🌱 Currently diving into: **DSA and Web Development.**
 
