@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm HIMANSHU KANSAL</h1>
+<h1 align="center">JAI SHREE RAM 🚩🚩🚩🚩🚩🚩🚩</h1>
+<h2 align="center">Hi 👋, I'm HIMANSHU KANSAL</h2>
 <h3 align="center">💻 Student @ IIIT Una | Web Development & DSA Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-himanshukansal&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-himanshukansal" /> </p>
