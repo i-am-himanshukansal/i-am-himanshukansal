@@ -1,4 +1,4 @@
-<h1 align="center">JAI SHREE RAM 🚩🚩🚩🚩🚩🚩🚩</h1>
+
 <h2 align="center">Hi 👋, I'm HIMANSHU KANSAL</h2>
 <h3 align="center">💻 Student @ IIIT Una | Web Development & DSA Enthusiast</h3>
 
